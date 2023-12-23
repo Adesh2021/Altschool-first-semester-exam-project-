@@ -1,5 +1,5 @@
 # Altschool-first-semester-exam-project-
-# Expense Tracker Project
+# Class for Tracking Expenses
 
 This project implements an Expense class and an ExpenseDatabase class in Python for managing individual financial expenses. It provides methods to  retrieve expenses by ID or title,to add, remove and get dictionary of the expense.
 
